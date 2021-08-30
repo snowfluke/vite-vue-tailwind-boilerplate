@@ -3,4 +3,5 @@ A scaffolding for Vue 3 Project using vite, tailwindcss, vuex and vue-router
 
 # Installation
 > cd directory-name
+
 > yarn install
